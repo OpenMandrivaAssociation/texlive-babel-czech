@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-babel-czech
 Version:	3.1a
-Release:	1
+Release:	2
 Summary:	TeXLive babel-czech package
 Group:		Publishing
 URL:		http://tug.org/texlive
