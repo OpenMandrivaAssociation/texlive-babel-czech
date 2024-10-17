@@ -3,7 +3,7 @@ Version:	30261
 Release:	2
 Summary:	TeXLive babel-czech package
 Group:		Publishing
-URL:		http://tug.org/texlive
+URL:		https://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-czech.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-czech.doc.r%{version}.tar.xz
